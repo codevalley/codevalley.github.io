@@ -1,12 +1,10 @@
 <span id="a">code@valley</span>:<span id="b">~</span><span id="c">$</span> cd nyn-home/<!-- kjsdfhkjdhsfkjdshfkj -->about
 <span id="a">code@valley</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codevalley.txt<br/><br/>
-For a long time, I used to say"<span id="a">More machines, less humans</span>". <!-- sjkfhskjf -->
 
-Hey There! I am Narayan (or Nyn in short).<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I have been lurking on the internet for couple of decades.<br>
-And started using a computer terminal over 30 years ago.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> I have built software starting from my school days through my adult hood. From publishing games and 
-graphics libraries to <span id="op">Programmer's heaven</span> back in the 90s, to building world's largest <a href="https://techcrunch.com/2012/11/23/now-you-can-ask-your-smartphone-about-the-past-present-or-future-androids-siri-like-assistant-iris-gets-integrated-with-activity-tracker-friday/"> Siri competitor in 2010s</a>, and creating the thesis way before <span id="op">Google Now</span> and <span id="op">Alexa</span> became a reality.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<br>I spent been a part of Android community from very early days (starting with <a href="https://www.androidpolice.com/2012/09/17/a-history-of-pre-cupcake-android-codenames/">Petit Four</a>), and was amongst the first 2000 apps published on Android Market (now called <span id="op">Play store</span>)</p>
+Hey There! I am Narayan (or nyn).<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+I have been lurking on the internet for couple of decades, and started using a computer terminal over 30 years ago.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> I starting building software from my school days through my adult hood. From publishing games and graphics libraries to <span id="op">Programmer's heaven</span> back in the 90s, to building world's largest <a href="https://techcrunch.com/2012/11/23/now-you-can-ask-your-smartphone-about-the-past-present-or-future-androids-siri-like-assistant-iris-gets-integrated-with-activity-tracker-friday/"> Siri competitor in 2010s</a>, and creating the thesis way before <span id="op">Google Now</span> and <span id="op">Alexa</span> became a reality.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<br>I have been a part of Android community from very early days (starting with <a href="https://www.androidpolice.com/2012/09/17/a-history-of-pre-cupcake-android-codenames/">Petit Four</a>), and was amongst the first 2000 apps published on Android Market (now called <span id="op">Play store</span>)</p>
 <p>I have been an entrepreneur, designer, product leader, engineering leader and in short was a <span id="b">jack of many trades</span> for a while.<br>
 <br>I have played key role in creating over 500M+ DAU across consumer products like Glance, Truecaller, Iris, Friday etc.
 <br>For the large few years, I have focussed on designing systems involving product, engineering, process and people in fast growing organisations.</p>
