@@ -15,6 +15,15 @@ var Typer = {
             Typer.text = Typer.text.slice(0, Typer.text.length - 1);
         });
     },
+    fastinit: function () {
+        accessCountimer = setInterval(function () {
+            Typer.updLstChr();
+        }, 10);
+        $.get(Typer.file, function (data) {
+            Typer.text = data;
+            Typer.text = Typer.text.slice(0, Typer.text.length - 1);
+        });
+    },
 
     content: function () {
         return $('#console').html();
@@ -98,6 +107,10 @@ function replaceUrls(text) {
 Typer.speed = 3;
 Typer.file = 'codevalley.txt';
 Typer.init();
+
+Typer.speed = 10;
+Typer.file = 'avatar.txt';
+Typer.fastinit();
 
 var timer = setInterval('t();', 30);
 function t() {
