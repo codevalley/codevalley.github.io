@@ -108,9 +108,6 @@ Typer.speed = 3;
 Typer.file = 'codevalley.txt';
 Typer.init();
 
-Typer.speed = 10;
-Typer.file = 'avatar.txt';
-Typer.fastinit();
 
 var timer = setInterval('t();', 30);
 function t() {
