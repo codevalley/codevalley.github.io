@@ -1,13 +1,14 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">code@valley</span>:<span id="b">~</span><span id="c">$</span> cd nyn-home/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">coder@valley</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codevalley.txt<br/><br/>
+For a long time, I used to say"<span id="k">More machines, less humans</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+Hey There! I am Narayan (or Nyn in short).<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I have been lurking on the internet for couple of decades.</p>
+<p>And started using a computer terminal over 30 years ago.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> I have built software throughout my school days and adult hood. From publishing games and graphics libraries to <span id="k">Programmer's heaven</span> back in the 90s, to building world's largest Siri competitor in  <a href="https://techcrunch.com/2012/11/23/now-you-can-ask-your-smartphone-about-the-past-present-or-future-androids-siri-like-assistant-iris-gets-integrated-with-activity-tracker-friday/"> 2010s</a>, and creating the template way before Google Now became a reality.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>I have been an entrepreneur, designer, product leader, engineering leader and in short <span id="k">jack of many trades</span> <br><br>
+<br>I have played key role in creating over 500M+ DAU across consumer products like Glance, Truecaller, Iris, Friday etc.
+<p> You can find me on the Internet, here: <br> <a href="https://www.linkedin.com/in/nyn">Linkedin</a> <br> <a href="https://twitter.com/nyn">Twitter</a> and <br> <a href="https://dribbble.com/nyn">Dribbble (from my previous life)</a>.</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+I still love creating products, and spend time talking to startups/entrepreneurs, sharing my learnings (and invest in small capacities) <!-- slightdelayhere-->, to get in touch feel free to send me an email at<!-- longlonglongcomment --><a href="mailto:codevalley@live.com">codevalley@live.com</a>.
 
 <p>Cheers!</p>
