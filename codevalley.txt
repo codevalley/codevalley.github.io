@@ -7,6 +7,7 @@ I have been an internet citizen for couple of decades, though I started using a 
 <br>I have been a part of Android community from very early days (starting with <a href="https://www.androidpolice.com/2012/09/17/a-history-of-pre-cupcake-android-codenames/">Petit Four</a>), and was amongst the first 2000 apps published on Android Market (now called <span id="op">Play store</span>)</p>
 <p>I have been an entrepreneur, designer, product leader, engineering leader and was a confused <span id="b">jack of many trades</span> for a while.<br>
 <br>I have played a key role in creating over 500M+ DAU across consumer products like Glance, Truecaller, Iris, Friday etc.
+You can see some of my talks over the years <a href="https://youtube.com/playlist?list=PLBTyyCavIt6PqhlV4JHcxcDqzrGPdk57W">here</a>. 
 <br>For the large few years, I have focussed on designing systems involving product, engineering, process and people in fast growing organisations.</p>
 <p> You can find me on the Internet, here: <a href="https://www.linkedin.com/in/nyn">Linkedin</a>, <a href="https://twitter.com/nyn">Twitter</a> and <a href="https://dribbble.com/nyn">Dribbble (from my previous life)</a>.</p>
 
